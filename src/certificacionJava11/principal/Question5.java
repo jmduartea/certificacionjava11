@@ -4,7 +4,9 @@ public class Question5 {
 	public static void main(String[] args) {
 		/*Respuesta correcta E. 08*/
 		for (var i=0; i<10;i++) {
+				System.out.print(i%5);
 		switch (i%5) {	
+		
 		case 2:
 				i *=2*i;
 				break;

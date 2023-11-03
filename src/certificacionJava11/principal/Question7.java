@@ -5,7 +5,7 @@ public class Question7 {
 		/*Respuesta correcta B,c,f*/
 		short sh = (short)'A'; 
 		float x = 1f;
-		//int x = 12_34;
+		int z = 12_34;
 	}
 	
 
